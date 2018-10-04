@@ -15,7 +15,7 @@ katz_deli = []
 end
 
  def take_a_number(katz_deli, string_name)
-    katz_deli.push(string_name)
+   katz_deli.push(string_name)
   puts "Welcome, #{string_name}. You are number #{katz_deli.length} in line."
 end
 
